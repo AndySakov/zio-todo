@@ -10,5 +10,5 @@
 .vscode/
 metals.sbt
 target/
-db/
+/db/
 .env
