@@ -15,4 +15,4 @@ To run this project
 - Clone the repo
 - Run `docker-compose up -d`
 - Run `sbt flywayMigrate`
-- Run `sbt rs`
+- Run `sbt r`
